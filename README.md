@@ -27,4 +27,4 @@ Contributions to this repository are welcome. If you find a bug or have suggesti
 
 ## Credits
 
-This project was created by [Santiago Moreno] as part of the [Google Analytics Certification] courses.
+This project was created by **Santiago Moreno Velasquez** as part of the **Google Analytics Certification** courses.
