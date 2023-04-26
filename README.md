@@ -16,3 +16,15 @@ To use this script, follow these steps:
 2. Set up authentication for your Google Cloud account by following the instructions [here](https://cloud.google.com/docs/authentication/getting-started).
 3. Update the `project_id` and `dataset_id` variables in `fulfillment_analysis.py` with your project and dataset IDs.
 4. Run the script by running `python fulfillment_analysis.py`.
+
+## Usage
+
+Please note that this code is intended for educational and non-commercial use only.
+
+## Contributions
+
+Contributions to this repository are welcome. If you find a bug or have suggestions for improvement, please open an issue or submit a pull request.
+
+## Credits
+
+This project was created by [Santiago Moreno] as part of the [Google Analytics Certification] courses.
