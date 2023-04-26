@@ -1,6 +1,6 @@
 # Warehouse Order Fulfillment Analysis
 
-![Warehouse picture](https://img.freepik.com/free-photo/interior-large-distribution-warehouse-with-shelves-stacked-with-palettes-goods-ready-market_342744-1481.jpg?w=1380&t=st=1682543392~exp=1682543992~hmac=d2937ae5b1de59229633f87bc806531ff207216143f00ae6a5664d1a48acff29)
+![Warehouse picture](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
 This Python script uses a BigQuery SQL query to analyze warehouse order fulfillment data and identify areas for improvement in warehouse operations. By calculating the number of orders fulfilled, a business can assess which warehouses are meeting fulfillment goals and which ones are falling short. This information can help increase customer satisfaction and revenue.
 
