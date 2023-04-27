@@ -17,6 +17,8 @@ To use this script, follow these steps:
 3. Update the `project_id` and `dataset_id` variables in `fulfillment_analysis.py` with your project and dataset IDs.
 4. Run the script by running `python fulfillment_analysis.py`.
 
+**Note:** If the Colab notebook is not being displayed, please copy the URL and paste it on [nbviewer](https://nbviewer.org/ "nbviewer") so you can see the code.
+
 ## Usage
 
 Please note that this code is intended for educational and non-commercial use only.
